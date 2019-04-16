@@ -1,0 +1,4 @@
+c:\users\gourav\documents\visual studio 2010\Projects\S_Center\S_Center\bin\S_Center.dll
+c:\users\gourav\documents\visual studio 2010\Projects\S_Center\S_Center\bin\S_Center.pdb
+c:\users\gourav\documents\visual studio 2010\Projects\S_Center\S_Center\obj\Debug\S_Center.dll
+c:\users\gourav\documents\visual studio 2010\Projects\S_Center\S_Center\obj\Debug\S_Center.pdb
